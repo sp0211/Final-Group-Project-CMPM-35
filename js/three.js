@@ -63,7 +63,7 @@
 		};
 	}
 
-	var REVISION = '123';
+	var REVISION = '123dev';
 	var MOUSE = {
 		LEFT: 0,
 		MIDDLE: 1,
